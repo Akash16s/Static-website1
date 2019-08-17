@@ -1,2 +1,2 @@
-# Minedenim-website
-we will develop website server
+# Website 1
+Single page website using django
